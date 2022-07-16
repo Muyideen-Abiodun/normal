@@ -1,0 +1,19 @@
+table{
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid red;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+    background-color: pink;
+    width: 600px;
+}
